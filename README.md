@@ -1,16 +1,33 @@
 ### Hi there 👋
 
-<!--
-**ddhruvin/ddhruvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Dhruvin Dholakia, a motivated Machine Learning professional with robust programming, data analysis, and visualization skills.
 
-Here are some ideas to get you started:
+![Profile views](https://komarev.com/ghpvc/?username=AquarlisPrime&color=brightgreen)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🔭 I’m currently working on **Image Merger**, a model to merge two images based on user input using cGAN.
+- 🌱 I’m currently learning advanced computer vision techniques using OpenCV.
+- 👯 I’m looking to collaborate on innovative AI projects with research scope.
+- 🤔 I’m enhancing my knowledge in Generative AI.
+- 💬 Ask me about machine learning, data analysis, and visualization.
+- 📫 How to reach me: [dd2242003@gmail.com](mailto:dd2242003@gmail.com)
+- 😄 Pronouns: He/Him
+
+## Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/dhruvin-dholakia-a69972267/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/ddhruvin)
+
+## Languages and Tools:
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/-Seaborn-9C27B0?logoColor=white&style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-004466?logo=matplotlib&logoColor=white&style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
