@@ -22,7 +22,7 @@ I'm Dhruvin Dholakia, a motivated Machine Learning professional with robust prog
 ## Languages and Tools:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/docker/image-size/:user/:repo)
+![Docker](https://img.shields.io/badge/-Docker-3776AB?logo=docker&logoColor=white&style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
 ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)
