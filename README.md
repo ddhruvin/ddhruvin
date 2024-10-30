@@ -2,12 +2,9 @@
 
 I'm Dhruvin Dholakia, a motivated Machine Learning professional with robust programming, data analysis, and visualization skills.
 
-![Profile views](https://komarev.com/ghpvc/?username=AquarlisPrime&color=brightgreen)
 
 ## About Me
 
-- 🔭 I’m currently working on **Image Merger**, a model to merge two images based on user input using cGAN.
-- 🌱 I’m currently learning advanced computer vision techniques using OpenCV.
 - 👯 I’m looking to collaborate on innovative AI projects with research scope.
 - 🤔 I’m enhancing my knowledge in Generative AI.
 - 💬 Ask me about machine learning, data analysis, and visualization.
