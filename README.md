@@ -18,7 +18,7 @@ I'm Dhruvin Dholakia, a motivated Machine Learning professional with robust prog
 
 ## Languages and Tools:
 
-![Snowflake](https://img.shields.io/badge/-ASP.NET_Core-3776AB?logo=Snowflake&logoColor=white&style=for-the-badge)
+![Snowflake](https://img.shields.io/badge/-Snowflake-3776AB?logo=Snowflake&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-3776AB?logo=docker&logoColor=white&style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
